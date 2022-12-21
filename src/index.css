@@ -1,0 +1,20 @@
+html {
+	scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+	display: none;
+}
+
+body {
+	background: #1f1f38;
+	background-image: url(../src/assets/bg-texture.png);
+}
+.container {
+	height: 1000px;
+	position: relative;
+}
+
+.title {
+	color: #fff;
+	font: poppins;
+}
